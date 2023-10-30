@@ -1,4 +1,7 @@
 # azure_machine_learning
+The results of the model in Azure are shown in the folder ('Azure_images')
+
+https://github.com/Hectorjg/azure_machine_learning/tree/main/azure_images
 
 A basic form of creating an Azure machine learning model.
 
